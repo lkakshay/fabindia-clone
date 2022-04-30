@@ -5,7 +5,7 @@
 ---
 # Welcome :wave:
 ---
-# Link to our Project website:
+
 
 <!-- Deployment Link -->
 ---
@@ -20,16 +20,11 @@
 
 
 #### Project Demo: 
-- **[Checkout The Live Project Demo](https://fabindia-mainclone.netlify.app/)**
+- **[Checkout The Live Project Demo](https://fabindia-clone.vercel.app/)**
 
 
 
-### Our Team Members :heart:
 
-- **[Shravya rao Chanda](https://github.com/shravyarao889)**
-- **[Sameer Harankhedkar](https://github.com/sameerah2710)**
-- **[Yogesh Kumar](https://github.com/)**
-- **[Venkatesh Mundkar](https://github.com/)**
 
 ---
 
